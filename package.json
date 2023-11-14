@@ -2,6 +2,8 @@
   "private": true,
   "scripts": {
     "build": "turbo build",
+    "build:admin": "turbo build --filter=admin",
+    "start:admin": "turbo start --filter=admin",
     "dev": "turbo dev",
     "lint": "turbo lint",
     "clean": "turbo clean",

@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3adminstoragef634cd79",
+  "bucketName": "admin-storage-f634cd79",
+  "policyUUID": "9714faf9",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
